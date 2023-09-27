@@ -1,0 +1,418 @@
+﻿N°;Année;Ville Org;Département Org;Joueur 1;Joueur 2;Joueur 3;Categorie;Formation;Sexe;Département Représenté;Comité/Ligue Représenté;Ville Représentée;Club Représenté
+173;1993;Sarreguemines;57;QUINTAIS Nathalie;QUINTAIS Philippe;;SENIOR;DOUBLETTE;MIXTE;77;Seine & Marne;Barbizon;Star Master's
+174;1994;Epinal;88;QUINTAIS Nathalie;QUINTAIS Philippe;;SENIOR;DOUBLETTE;MIXTE;28;Eure & Loire;Hanches;A-S-Hanches
+175;1995;Pau;64;LAUER Virginie;BERMOND Camille;;SENIOR;DOUBLETTE;MIXTE;04;Alpes-de-Haute-Provence;St-Auban;U-S-C-A-S-A
+176;1996;Lamoura;39;SARDA Martine;SCHATZ Michel;;SENIOR;DOUBLETTE;MIXTE;34;Hérault;Montpellier;Team-Nicollin
+177;1997;Nîmes;30;SARDA Martine;SCHATZ Michel;;SENIOR;DOUBLETTE;MIXTE;34;Hérault;Montpellier;Team-Nicollin
+178;1998;Villefranche/Saône;69;SARDA Martine;SCHATZ Michel;;SENIOR;DOUBLETTE;MIXTE;34;Hérault;Montpellier;Team-Nicollin
+179;1999;Alençon;61;GELIN Nathalie;RADNIC Zvonko;;SENIOR;DOUBLETTE;MIXTE;71;Saone & Loire;Macon;Pétanque Maconnaise
+180;2000;Montauban;82;JAUNET Sylvie;SUCHAUD Philippe;;SENIOR;DOUBLETTE;MIXTE;03;Allier;Montluçon;Amicale les Marais
+181;2001;Evreux;27;MINERVA Michéle;CORTES Simon;;SENIOR;DOUBLETTE;MIXTE;34;Hérault;Lodève;Boule Sauvage
+182;2002;Charleville-Méziéres;8;SIROT Nathalie;CHOUPAY Didier;;SENIOR;DOUBLETTE;MIXTE;77;Seine & Marne;Barbizon;Star Master's
+183;2003;Flamanville;50;TERRIEN Pascale;GRANDET Thierry;;SENIOR;DOUBLETTE;MIXTE;33;Gironde;Canéjan;Boule Canejanaise
+184;2004;Agen;47;FOULHAC Audrey;FOULHAC Jean-Luc;;SENIOR;DOUBLETTE;MIXTE;46;Lot;Biars/Cere;Pétanque Biarnaise
+185;2005;Fort-de-France;972;COLOMBET/PAPON Angélique;XISTO Jean-Michel;;SENIOR;DOUBLETTE;MIXTE;63;Puy-de-Dôme;Ambert;Elite Club Ambert
+186;2006;Argenton/Creuse;36;ROCHE Séverine;SUCHAUD Philippe;;SENIOR;DOUBLETTE;MIXTE;06;Alpes Maritimes;Nice;Dépt-Union-Club
+187;2007;Niort;79;ROCHE Séverine;SUCHAUD Philippe;;SENIOR;DOUBLETTE;MIXTE;06;Alpes Maritimes;Nice;Dépt-Union-Club
+188;2008;Laon;2;DELLA-PIETRA Anne-Marie;QUINTAIS Philippe;;SENIOR;DOUBLETTE;MIXTE;06;Alpes Maritimes;Nice;Dépt-Union-Club
+189;2009;Aurillac;15;COLOMBET/PAPON Angélique;RADNIC Zvonko;;SENIOR;DOUBLETTE;MIXTE;63;Puy-de-Dôme;Cournon;Joyeux Cochonnet
+190;2010;Flamanville;50;COLOMBET/PAPON Angélique;DURK Maison;;SENIOR;DOUBLETTE;MIXTE;63;Auvergne;Cournon;Joyeux Cochonnet
+191;2011;Strasbourg;67;DUBARRY/STOKER Fabienne;LELLOUCHE Kevin;;SENIOR;DOUBLETTE;MIXTE;65;Midi-Pyrénées;Lourdes;E-S Lourdes
+192;2012;Espalion;12;SAUNIER Christine;ROCHER Dylan;;SENIOR;DOUBLETTE;MIXTE;6;Alpes Maritimes;Nice;Dépt-Union-Club
+193;2013;Trignac;44;COLOMBET/PAPON Angélique;RAYNE Nicolas;;SENIOR;DOUBLETTE;MIXTE;63;Auvergne;Cournon d'Auvergne;J-C Cournon-d'Auvergne
+194;2014;Colomiers;31;GOMES Johanna;GAMBERT Alban;;SENIOR;DOUBLETTE;MIXTE;27;Eure;Vernon;Vernon Pétanque
+195;2015;Rennes;35;DENAUD Vanessa;LOY Michel;;SENIOR;DOUBLETTE;MIXTE;69;Rhône;Lyon;Pétanque des Canuts
+196;2016;Rumilly;74;DARODES Charlotte;FELTAIN Richard;;SENIOR;DOUBLETTE;MIXTE;17;Charente Maritime;Royan;Royan Pétanque
+1;1946;Montpellier;34;BIANCOTTO Jean;MERLO Noel ;BEZZA François;SENIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Marseille;Boule du Pharo
+2;1947;Avignon;84;CUTAJAR Clément;VACARRO Armand;FILHOL Pierre;SENIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Marseille;Lei-Ben-Quia
+3;1948;Alès;30;BIANCOTTO Jean;BIENVENUTTI Francis;MAGNANI Triestino;SENIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Marseille;Boule du Pharo
+4;1949;Valence;26;LUCIARDI Auguste;GUGLIELMI Baptiste;RAYNAUD Etienne;SENIOR;TRIPLETTE;MASCULIN;83;Var;Toulon;Boule de Besagne
+5;1950;Manosque;4;TASSONE Emile;GAILLARD Léon;CAPONE Louis;SENIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Marseille;Les Embrouilleurs
+6;1951;Toulon;83;GARZINO Joseph;HIDEUX Eugéne;BALDI Alphonse;SENIOR;TRIPLETTE;MASCULIN;83;Var;Toulon;Boule Argentée
+7;1952;Nîmes;30;DAUMAS Marcel;MARQUIS Honoré;TICHIT Jean;SENIOR;TRIPLETTE;MASCULIN;84;Vaucluse;Avignon;Boule Carrée St-Lazare
+8;1953;Perpignan;66;RUOCCO Gaétan;POULET Gustave;GILLOUX Pierre;SENIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Aix-en-Provence;Boule Aixoise
+9;1954;Narbonne;11;MICHEL Raoul;VILLEVIEILLE Louis;RIGAUD Paul;SENIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Aix-en-Provence;Boule Aixoise
+10;1955;Cannes;6;MICHEL Raoul;VILLEVIEILLE Louis;RIGAUD PAUL;SENIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Aix-en-Provence;Boule Aixoise
+11;1956;Montpellier;34;AIDINIAN Henri;MANOUKIAN Olivier;SAURA Joseph;SENIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Marseille;Pétanque Coq-Oddo
+12;1957;Toulouse;31;AMIEL Marcel;MAGNANI Triestino;BEZZA François;SENIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Marseille;Zan-Zan Pétanque
+13;1958;Valence;26;ARAMA Jo;GALLAND Raymond;OLIVIER Félix;SENIOR;TRIPLETTE;MASCULIN;75;Ile-de-France;Paris;Lou Pitchoun
+14;1959;Tarbes;65;AIDINIAN Henri;AUDRY Georges;BERARD Aimé;SENIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Marignane;Base Aérienne
+15;1960;Clermont-Fd;63;PISAPIA Albert;BELLANTONIO Vincent;BATTESTI Jean;SENIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Marseille;Pétanque Gazélec
+16;1961;Béziers;34;BORSI Serge;BERNARDI Pierre;GALFRE Ernest;SENIOR;TRIPLETTE;MASCULIN;83;Var;St-Raphaël;Amis de la Petite Boule
+17;1962;Bordeaux;33;MAYER Jean;HALADJAN Marius;POINT Alexandre;SENIOR;TRIPLETTE;MASCULIN;84;Vaucluse;Orange;Les Pétangueules
+18;1963;Lyon;69;BLANC Jules;PALAGGI Marius;FRAIRE Noel;SENIOR;TRIPLETTE;MASCULIN;83;Var;Hyères;Joyeux Boulomanes
+19;1964;Epinal;88;GAVINO Maurice;MACAGNO Adolphe;PELLI Alphonse;SENIOR;TRIPLETTE;MASCULIN;06;Alpes Maritimes;Antibes;Pétanque Antiboise
+20;1965;Perpignan;66;PAON Jean;SARNITO Marcel;MELIS François;SENIOR;TRIPLETTE;MASCULIN;75;Ile-de-France;Paris;Lou Pitchoun
+21;1966;Agen;47;NAUDO Jean;NAUDO Gérard;BAILLS Claude;SENIOR;TRIPLETTE;MASCULIN;66;Languedoc-Roussillon;Canet-en-Roussillon;Canet-Plage-Bouliste
+22;1967;Paris;75;NAUDO Jean;NAUDO Gérard;BAILLS Claude;SENIOR;TRIPLETTE;MASCULIN;66;Languedoc-Roussillon;Canet-en-Roussillon;Canet-Plage-Bouliste
+23;1968;Toulouse;31;BOURDIN Eric;CHASSON François;REY Alain;SENIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Crau de Chateaurenard;U-S de la Crau
+24;1969;Roubaix;59;MACARI René;SALVADOR Denis;BONFORT Raoul;SENIOR;TRIPLETTE;MASCULIN;30;Gard;Nîmes;Boule du Tortoni
+25;1970;Vichy;3;PAON Jean;LEBEAU Robert;MATTEI Tiburce;SENIOR;TRIPLETTE;MASCULIN;75;Paris;Paris;Refuge PC Nation
+26;1971;Avignon;84;PAON Jean;LEBEAU Robert;MATTEI Tiburce;SENIOR;TRIPLETTE;MASCULIN;75;Paris;Paris;Refuge PC Nation
+27;1972;Bordeaux;33;CATUSSE J-Claude;SENEZERGUES René;LAFON Christian;SENIOR;TRIPLETTE;MASCULIN;12;Aveyron;Decazeville;Pétanque-Trépalou
+28;1973;Angers;49;KOKOYAN Jean;SANTIAGO J-Joseph Baldo;GARCIA José;SENIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Marseille;La Reinette
+29;1974;Ajaccio;2A;CALECA Marcel;CALECA Tony;FRITSCH J-Pierre;SENIOR;TRIPLETTE;MASCULIN;83;Var;St-Raphaël;Amis Petite Boule
+30;1975;Tours;37;LUCCHESI René;ROUVIERE Serge;CALENZO Claude;SENIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Septêmes les Vallons;Boule Septémoise
+31;1976;Perpignan;66;ARCOLAO Ange;FRESCURA Raymond;TINI Elio;SENIOR;TRIPLETTE;MASCULIN;06;Alpes Maritimes;Cannes;A-B-Croisette
+32;1977;La Courneuve;93;PAON Jean;LEBEAU Robert;MATTEI Tiburce;SENIOR;TRIPLETTE;MASCULIN;75;Paris;Paris;Refuge PC Nation
+33;1978;Brive;19;LUCCHESI René;ROUVIERE Serge;CALENZO Claude;SENIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Septêmes les Vallons;Boule Septémoise
+34;1979;Nancy;54;PANCIN Norbert;JAFFUEL Gérard;PALAZON José;SENIOR;TRIPLETTE;MASCULIN;84;Vaucluse;Orange;Boule Atomique
+35;1980;Poitiers;86;PANCIN Norbert;JAFFUEL Gérard;PALAZON José;SENIOR;TRIPLETTE;MASCULIN;84;Vaucluse;Orange;Boule Atomique
+36;1981;Le Mans;72;CAPPELLO Clovis;DELZERS Jean-Claude;LAGARDE Christian;SENIOR;TRIPLETTE;MASCULIN;82;Tarn & Garonne;Montauban;U-S-Montauban
+37;1982;Alès;30;ROUZAUD Henri;CLAUDI François;CUZIOL Alain;SENIOR;TRIPLETTE;MASCULIN;09;Ariège;Varilhes;Boule Amicale St-Michel
+38;1983;Toulouse;31;CAPPELLO Clovis;DELZERS Jean-Claude;LAGARDE Christian;SENIOR;TRIPLETTE;MASCULIN;82;Tarn & Garonne;Montauban;U-S-Montauban
+39;1984;Bastia;2B;FAZZINO Christian;ROCHELET Alain;VOISIN Daniel;SENIOR;TRIPLETTE;MASCULIN;03;Allier;Montluçon;Amicale les Marais
+40;1985;Le Bourget;93;BIDEAU Alain;CHOUPAY Didier;LOPEZE Patrick;SENIOR;TRIPLETTE;MASCULIN;77;Seine & Marne;Brie-Comte-Robert;Pétanque Briarde
+41;1986;Angers;49;ARCOLAO Ange;ZANGARELLI Aristide;ARCOLAO Christian;SENIOR;TRIPLETTE;MASCULIN;06;Alpes Maritimes;St-Paul-de-Vence;Pétanque St-Pauloise
+42;1987;Lyon;69;PEREZ Serge;LEBRETON Dominique;GIMELLI J-Pierre;SENIOR;TRIPLETTE;MASCULIN;14;Calvados;Caen;A-S-Guériniére
+43;1988;Tarbes;65;FOYOT Jean-Marc;LUCCHESI René;LAPIETRA Serge;SENIOR;TRIPLETTE;MASCULIN;84;Vaucluse;Le Pontet;Entente Bouliste
+44;1989;Macon;71;FAZZINO Christian;AMBLARD Jean-Luc;VOISIN Daniel;SENIOR;TRIPLETTE;MASCULIN;03;Allier;Montluçon;Amicale les Marais
+45;1990;Brive;19;DANIEL Serge;TOURNAY Gérard;MILCOS Patrick;SENIOR;TRIPLETTE;MASCULIN;93;Seine-Saint-Denis;La Courneuve;Union-Pétanque
+46;1991;Avignon;84;ROUQUIE Philippe;LAGARDE Jean-Claude;FERRAND J-Michel;SENIOR;TRIPLETTE;MASCULIN;31;Haute-Garonne;Toulouse;Pétanque L'écusson
+47;1992;Grenoble;38;MONARD Daniel;ROCHON Christian;RAJCZA Edmond;SENIOR;TRIPLETTE;MASCULIN;48;Lozère;Collet de Déze;Boule Collétaine
+48;1993;Nantes;44;REYMOND Gérard;PATRUNO Dominique;FERREIRA François;SENIOR;TRIPLETTE;MASCULIN;63;Puy-de-Dôme;Clermont-Ferrand;Boule Le Central
+49;1994;Angoulême;16;BIDEAU Alain;CHOUPAY Didier;CHAGOT Marc;SENIOR;TRIPLETTE;MASCULIN;77;Seine & Marne;Barbizon;Star Master's
+50;1995;Brétigny/Orge;91;SIROT Eric;POUZIER Philippe;RASLE J-Claude;SENIOR;TRIPLETTE;MASCULIN;91;Essone;Montgeron;U-P-Montgeron
+51;1996;Vichy/Bellerive;63;LOY Michel;CHOUPAY Didier;MILCOS Patrick;SENIOR;TRIPLETTE;MASCULIN;77;Seine & Marne;Barbizon;Star Master's
+52;1997;Chartres;28;FOYOT Jean-Marc;SCHATZ Michel;FARRE Joseph;SENIOR;TRIPLETTE;MASCULIN;34;Hérault;Montpellier;Team-Nicollin
+53;1998;La Roche/Yon;85;FAZZINO Christian;SUCHAUD Philippe;VELUT Didier;SENIOR;TRIPLETTE;MASCULIN;03;Aliier;Montluçon;Amicale les Marais
+54;1999;Lunéville;54;RYPEN Raphael;HERNANDEZ J-Philippe;HERNANDEZ Patrick;SENIOR;TRIPLETTE;MASCULIN;03;Allier;Bellerive/Allier;Pétanque Bellerivoise
+55;2000;Nevers;58;FOYOT Jean-Marc;SCHATZ Michel;FARRE Joseph;SENIOR;TRIPLETTE;MASCULIN;34;Hérault;Montpellier;Team-Nicollin
+56;2001;Narbonne;11;LACROIX Henri;LECA Robert;MARIN Claude;SENIOR;TRIPLETTE;MASCULIN;83;Var;Hyères;Joyeux Boulomanes
+57;2002;Soustons;40;FAZZINO Christian;SUCHAUD Philippe;VOISIN Daniel;SENIOR;TRIPLETTE;MASCULIN;03;Allier;Montluçon;Amicale les Marais
+58;2003;Perpignan;66;ROCHER Bruno;LE BOURSICAUD Bruno;LAMOUR Julien;SENIOR;TRIPLETTE;MASCULIN;72;Sarthe;Le Mans;P-A-C Les Sources
+59;2004;Toulouse;31;CHAGNEAU Didier;PLANTON Laurent;GRANDET Thierry;SENIOR;TRIPLETTE;MASCULIN;33;Gironde;Bègles;A-P-La Ferrade
+60;2005;Marseille;13;FAZZINO Christian;RYPEN Raphael;PERRIN Frédéric;SENIOR;TRIPLETTE;MASCULIN;03;Allier;Montluçon;Amicale les Marais
+61;2006;Limoges;87;QUINTAIS Philippe;LACROIX Henri;SUCHAUD Philippe;SENIOR;TRIPLETTE;MASCULIN;06;Alpes Maritimes;Nice;Dépt-Union-Club
+62;2007;Dijon;21;LAGARDE Christian;PHALIPPOT Alain;DELFORGE Stéphane;SENIOR;TRIPLETTE;MASCULIN;81;Midi-Pyrénées;Gaillac;Boule d'Or
+63;2008;Clermont-Ferrand;63;QUINTAIS Philippe;LACROIX Henri;SUCHAUD Philippe;SENIOR;TRIPLETTE;MASCULIN;06;Alpes Maritimes;Nice;Dépt-Union-Club
+64;2009;Caen;14;QUINTAIS Philippe;LACROIX Henri;SUCHAUD Philippe;SENIOR;TRIPLETTE;MASCULIN;06;Alpes Maritimes;Nice;Dépt-Union-Club
+65;2010;Nice;6;QUINTAIS Philippe;LACROIX Henri;SUCHAUD Philippe;SENIOR;TRIPLETTE;MASCULIN;06;Alpes Maritimes;Nice;Dépt-Union-Club
+66;2011;Soustons;40;DARODES James;DARODES Jeremy;SEVILLA Christophe;SENIOR;TRIPLETTE;MASCULIN;27;Haute-Normandie;Damville;A-B Damvilloise
+67;2012;Roanne;42;LE DANTEC David;LE BOURGEOIS Stéphane;WEIBEL Charles;SENIOR;TRIPLETTE;MASCULIN;57;Moselle;Metz;Metz Ronde Pétanque
+68;2013;Béziers;34;LUCIEN Emmanuel;QUINTAIS Philippe;SUCHAUD Philippe;SENIOR;TRIPLETTE;MASCULIN;28;Centre;Dreux;Dreux Pétanque
+69;2014;Brive;19;BERLIER Stéphane;ROUQUIE Philippe;FERRAND Jean-Michel;SENIOR;TRIPLETTE;MASCULIN;31;Midi-Pyrénées;Colomiers;B-J Colomiers
+70;2015;Narbonne;11;BARRE Fabien;NEXON Dylan;SOLANA Sacha;SENIOR;TRIPLETTE;MASCULIN;9;Ariège;Ax-les-Thermes;Petanque Axéenne
+71;2016;Montauban;82;FOURNIE Romain;MONTORO Ludovic;HATCHADOURIAN Michel;SENIOR;TRIPLETTE;MASCULIN;83;P.A.C.A;Draguignan;A-B-C Draguignan
+72;1970;Montauban;82;RUFFA Dominique;BARBIERI Jean-Pierre;;SENIOR;DOUBLETTE;MASCULIN;54;Meurthe & Moselle;Trieux;S-C-Trieux
+73;1971;Cannes;6;LATRUFFE Jean-Pierre;BERTRAND Jean-Claude;;SENIOR;DOUBLETTE;MASCULIN;10;Aube;St-André-les-Vergers;Boule Dryate
+74;1972;Roubaix;59;BROCCA Pierre;SIMON Charles;;SENIOR;DOUBLETTE;MASCULIN;13;Bouches-du-Rhone;Gémenos;Boule Gémenosienne
+75;1973;Le Mans;72;CHASTILLON Auguste;MONTERO Joseph;;SENIOR;DOUBLETTE;MASCULIN;04;Alpes-de-Haute-Provence;St-Auban;U-S-C-A-S-A
+76;1974;Orléans;45;AMROUCHE Jean-Claude;SARNITO Marcel;;SENIOR;DOUBLETTE;MASCULIN;75;Paris;Paris;Pétanque-Club-XVIéme
+77;1975;Clermont-Ferrand;63;PAON Jean;LEBEAU Robert;;SENIOR;DOUBLETTE;MASCULIN;75;Paris;Paris;Refuge P-C-Nation
+78;1976;Poitiers;86;MARCO Roger;MARIGOT Roger;;SENIOR;DOUBLETTE;MASCULIN;34;Hérault;Béziers;Boule Moderne
+79;1977;Toulouse;31;LAGARDE Guy;CAPPELLO Clovis;;SENIOR;DOUBLETTE;MASCULIN;82;Tarn & Garonne;Montauban;U-S-Montauban
+80;1978;Bagneux;92;MUDJEREDIAN Jean;MARTINEZ Pierre;;SENIOR;DOUBLETTE;MASCULIN;75;Paris;Paris;Les Epinettes
+81;1979;Mulhouse;68;REGOUFFRE Guy;WIDEMAN Georges;;SENIOR;DOUBLETTE;MASCULIN;33;Gironde;Pessac;Verthamon
+82;1980;Perpignan;66;FOYOT Jean-Marc;STEFANI Antoine;;SENIOR;DOUBLETTE;MASCULIN;75;Paris;Paris;Pétanque-Club-XVIème
+83;1981;Pau;64;MORALDO Fernand;UHLMAN Jean;;SENIOR;DOUBLETTE;MASCULIN;84;Vaucluse;Avignon;Rallye Boule
+84;1982;Chambéry;73;BOYER de la GIRODAY Arnaud;TREBOSC Yves;;SENIOR;DOUBLETTE;MASCULIN;94;Val-de-Marne;Charenton;E-B-Charentonnaise
+85;1983;Dunkerque;59;BINET Thierry;PEDRON Yves;;SENIOR;DOUBLETTE;MASCULIN;44;Loire-Atlantique;Trignac;Trignac Olympique Pét 13
+86;1984;Montpellier;34;FAZZINO Christian;VOISIN Daniel;;SENIOR;DOUBLETTE;MASCULIN;03;Allier;Montluçon;Amicale Les Marais
+87;1985;Limoges;87;CHATELAIN Pascal;ROCHER Christian;;SENIOR;DOUBLETTE;MASCULIN;78;Yvelines;Sartrouville;Amicale Sartrouville
+88;1986;Albi;81;KASSI Patrick;FRAGNOUD Patrick;;SENIOR;DOUBLETTE;MASCULIN;38;Isère;Péage-Roussillon;Pét  Roussillonnaise
+89;1987;Vichy;3;LEBRETON Dominique;PEREZ Serge;;SENIOR;DOUBLETTE;MASCULIN;14;Calvados;Caen;A-S-Guériniére
+90;1988;Brest;29;LAGARDE Guy;CAMPS Max;;SENIOR;DOUBLETTE;MASCULIN;47;Lot & Garonne;Agen;Pétanque du Gravier
+91;1989;Epinal;88;CHAPELAND Wilfrid;LOZANO André;;SENIOR;DOUBLETTE;MASCULIN;69;Rhone;Oullins;Frat' Oullins
+92;1990;Cannet-Rocheville;6;LOY Michel;LESAGE Thierry;;SENIOR;DOUBLETTE;MASCULIN;75;Paris;Paris;Assemblée Nationale
+93;1991;Reims;51;CHAUSSEPIED Didier;ROBION Jacques;;SENIOR;DOUBLETTE;MASCULIN;44;Loire-Atlantique;Nantes;ASPTT
+94;1992;Nevers;58;ROBERT Jean-Luc;MORILLON Laurent;;SENIOR;DOUBLETTE;MASCULIN;86;Vienne;Poitiers;Pétanque-Montmidi
+95;1993;St-Saulve;59;RADNIC Zvonko;MILEI Pascal;;SENIOR;DOUBLETTE;MASCULIN;71;Saone & Loire;Macon;Pétanque Maconnaise
+96;1994;St-Avold;57;GRAS Patrick;LESAGE Thierry;;SENIOR;DOUBLETTE;MASCULIN;92;Hauts-de-Seine;Gennevilliers;Charly Pétanque
+97;1995;Annecy;74;SUCHAUD Philippe;VOISIN Daniel;;SENIOR;DOUBLETTE;MASCULIN;03;Allier;Montluçon;Amicale Les Marais
+98;1996;Rosny/Bois;93;FOUILHE Max;LE LONS Jean-Pierre;;SENIOR;DOUBLETTE;MASCULIN;77;Seine & Marne;Melun;Union-Sportive-Melun
+99;1997;Melun;77;HERVO Patrick;THOREL Gérard;;SENIOR;DOUBLETTE;MASCULIN;44;Loire-Atlantique;St-Nazaire;Pét Omnisport (SNOS)
+100;1998;Chambon/Voueize;23;HUREAU Christophe;HUREAU Damien;;SENIOR;DOUBLETTE;MASCULIN;49;Maine & Loire;Angers;La Rafle
+101;1999;Belfort;90;ROBERT Jean-Luc;QUINTAIS Philippe;;SENIOR;DOUBLETTE;MASCULIN;28;Eure & Loire;Hanches;A-S-Hanches
+102;2000;Thiais;94;PETIT Laurent;TREMBLEAU Christophe;;SENIOR;DOUBLETTE;MASCULIN;45;Loiret;Sully/Loire;C-S-M-Sullylois
+103;2001;Aurillac;15;DUBREUIL Sylvain;ROUSSEAU Sébastien;;SENIOR;DOUBLETTE;MASCULIN;94;Val-de-Marne;Fresnes;Assoc-Amicale-Sportive
+104;2002;Cournon d'Auvergne;63;LE BOURSICAUD Bruno;ROCHER Bruno;;SENIOR;DOUBLETTE;MASCULIN;72;Sarthe;Le Mans;P-A-C des Sources
+105;2003;Dijon;21;RIVIERE Fernand;CANO Antoine;;SENIOR;DOUBLETTE;MASCULIN;06;Alpes Maritimes;Nice;Pétanque Arson
+106;2004;Nevers;58;CORTES Simon;MARAVAL Jean-Claude;;SENIOR;DOUBLETTE;MASCULIN;34;Herault;Montpellier;Team-Nicollin
+107;2005;Caen;14;LE BOURSICAUD Bruno;ROCHER Bruno;;SENIOR;DOUBLETTE;MASCULIN;72;Sarthe;Le Mans;Club-Rocher-Pétanque
+108;2006;Belfort;90;FOYOT Jean-Marc;MILEI Pascal;;SENIOR;DOUBLETTE;MASCULIN;63;Puy-de-Dôme;Ambert;Elite Club Ambert
+109;2007;St-Louis;68;QUINTAIS Philippe;LACROIX Henri;;SENIOR;DOUBLETTE;MASCULIN;06;Alpes Maritimes;Nice;Dépt-Union-Club
+110;2008;Bourg St-Andéol;7;MALBEC Kévin;GROSS André;;SENIOR;DOUBLETTE;MASCULIN;95;Ile-de-France;Goussainville;Pétanque  Goussaivilloise
+111;2009;Aurillac;15;MALBEC Kévin;GROSS André;;SENIOR;DOUBLETTE;MASCULIN;95;Ile-de-France;Goussainville;Pétanque  Goussaivilloise
+112;2010;Bruay/Escaut;59;DARODES Jérémy ;SEVILLA Christophe;;SENIOR;DOUBLETTE;MASCULIN;27;Haute-Normandie;Damville;A-B Damvilloise
+113;2011;Rennes;35;ROBINEAU Stéphane;ROCHER Dylan;;SENIOR;DOUBLETTE;MASCULIN;72;Sarthe;Le Mans;Club Rocher Le Mans
+114;2012;Guéret;23;DIOT Richard;BESNARD Mickaël;;SENIOR;DOUBLETTE;MASCULIN;36;Indre;Châteauroux;Stars Pétanque Castelroussine
+115;2013;Sassenage;38;FAZZINO Christian;OLMOS Denis;;SENIOR;DOUBLETTE;MASCULIN;3;Auvergne;Montluçon;Amicale Les Marais
+116;2014;Saint-Avold;57;LACROIX Henri;LE BOURSICAUD Bruno;;SENIOR;DOUBLETTE;MASCULIN;69;Rhône;Lyon;Petanque des Canuts
+117;2015;Pau;64;SAVIN Angy;DURK Maison;;SENIOR;DOUBLETTE;MASCULIN;63;Puy-de-Dôme;Arlanc;Petanque Arlançoise
+118;2016;Lanester;56;ROCHER Dylan;LACROIX Henri;;SENIOR;DOUBLETTE;MASCULIN;83;Var;Draguignan;A-B-C Draguignan
+119;1966;Paris;75;ARCOLAO Ange;;;SENIOR;TETE A TETE;MASCULIN;06;Alpes Maritimes;Cagnes/mer;U-S-Cagnes
+120;1967;St-Etienne;42;DEJEAN Daniel;;;SENIOR;TETE A TETE;MASCULIN;09;Ariège;Pamiers;Millane-Pétanque
+121;1968;Espalion;12;PHILIPOT Henri;;;SENIOR;TETE A TETE;MASCULIN;40;Landes;Mont-de-Marsan;Stade-Montois-Pétanque
+122;1969;Nevers;58;BALDI Alphonse;;;SENIOR;TETE A TETE;MASCULIN;83;Var;Toulon;Boule Provençale
+123;1970;Montauban;82;LEGLISE Ernest;;;SENIOR;TETE A TETE;MASCULIN;06;Alpes Maritimes;St-Paul-de-Vence;Pétanque St-Pauloise
+124;1971;Cannes;6;GINDRAUD Guy;;;SENIOR;TETE A TETE;MASCULIN;16;Charente;Cognac;Joyeux Boulistes
+125;1972;Roubaix;59;GOUGES François;;;SENIOR;TETE A TETE;MASCULIN;66;Pyrénées-Orientales;Banyuls;Pétanque Banyulenque
+126;1973;Le Mans;72;TRAWINSKI Jean;;;SENIOR;TETE A TETE;MASCULIN;30;Gard;Bagnols/Cèze;A-S-C-E-A-M
+127;1974;Orléans;45;MORALES José;;;SENIOR;TETE A TETE;MASCULIN;65;Hautes-Pyrénées;Tarbes;Les Aiglons
+128;1975;Clermont-Ferrand;63;FAZZINO Christian;;;SENIOR;TETE A TETE;MASCULIN;03;Allier;Montluçon;Amicale les Marais
+129;1976;Poitiers;86;GINIER Claude;;;SENIOR;TETE A TETE;MASCULIN;04;Alpes-de-Haute-Provence;Digne;Boule Dignoise
+130;1977;Toulouse;31;GOUGES François;;;SENIOR;TETE A TETE;MASCULIN;66;Pyrénées-Orientales;Banyuls;Pétanque Banyulenque
+131;1978;Bagneux;92;FAZZINO Christian;;;SENIOR;TETE A TETE;MASCULIN;03;Allier;Montluçon;Amicale les Marais
+132;1979;Mulhouse;68;VALISSANT Dominique;;;SENIOR;TETE A TETE;MASCULIN;02;Aisne;Laon;Pétanque Laonnoise
+133;1980;Perpignan;66;COULOMB René;;;SENIOR;TETE A TETE;MASCULIN;83;Var;Fréjus;ASPTT Fréjus
+134;1981;Pau;64;COULOMB René;;;SENIOR;TETE A TETE;MASCULIN;83;Var;Fréjus;ASPTT Fréjus
+135;1982;Chambéry;73;FAZZINO Christian;;;SENIOR;TETE A TETE;MASCULIN;03;Allier;Montluçon;Amicale les Marais
+136;1983;Dunkerque;59;COMBARNOUS Christian;;;SENIOR;TETE A TETE;MASCULIN;67;Bas-Rhin;Strasbourg;Club-Bouliste-Strasbourg
+137;1984;Montpellier;34;LOIZE Maurice;;;SENIOR;TETE A TETE;MASCULIN;02;Aisne;Laon;Pétanque La Neuvilloise
+138;1985;Limoges;87;LACAS André;;;SENIOR;TETE A TETE;MASCULIN;84;Vaucluse;Sorgues;Entente-Bouliste-Sorgues
+139;1986;Albi;81;COULOMB René;;;SENIOR;TETE A TETE;MASCULIN;83;Var;Draguignan;B-J-Dracénoise
+140;1987;Vichy;3;KEBBATI Morad;;;SENIOR;TETE A TETE;MASCULIN;95;Val d'Oise;Goussainville;C-S-M Goussainville
+141;1988;Brest;29;QUINTAIS Philippe;;;SENIOR;TETE A TETE;MASCULIN;28;Eure & Loire;Hanches;A-S-Hanches
+142;1989;Epinal;88;WATIEZ Jean-Pierre;;;SENIOR;TETE A TETE;MASCULIN;75;Paris;Paris;J-B-Buttes-Chaumont
+143;1990;Cannet-Rocheville;6;FAZZINO Christian;;;SENIOR;TETE A TETE;MASCULIN;03;Allier;Montluçon;Amicale les Marais
+144;1991;Reims;51;LE DANTEC David;;;SENIOR;TETE A TETE;MASCULIN;22;Côtes d'Armor;Pleudihen;A-S Pleudihen
+145;1992;Nevers;58;LE DANTEC David;;;SENIOR;TETE A TETE;MASCULIN;29;Finistère;Concarneau;Douric Ar Zin
+146;1993;St-Saulve;59;BRIAND Michel;;;SENIOR;TETE A TETE;MASCULIN;30;Gard;Bagnols/Cèze;Pétanque Atomique
+147;1994;St-Avold;57;CABARRET Philippe;;;SENIOR;TETE A TETE;MASCULIN;54;Meuthe & Moselle;Pont-à-Mousson;PàM Pétanque
+148;1995;Annecy;74;MORILLON Laurent;;;SENIOR;TETE A TETE;MASCULIN;86;Vienne;Poitiers;Pétanque-Montmidi
+149;1996;Rosny/Bois;93;BRIAND Michel;;;SENIOR;TETE A TETE;MASCULIN;30;Gard;Bagnols/Cèze;Pétanque Atomique
+150;1997;Melun;77;ROCHER Bruno;;;SENIOR;TETE A TETE;MASCULIN;72;Sarthe;Le Mans;P-A-C Les Sources
+151;1998;Chambon/Voueize;23;PIZZOLATO Jérome;;;SENIOR;TETE A TETE;MASCULIN;82;Tarn & Garonne;Moissac;Pétanque Pont-Neuf
+152;1999;Belfort;90;ESTHER Frédéric;;;SENIOR;TETE A TETE;MASCULIN;974;La Réunion;Le Port;Club Evariste de Parny
+153;2000;Thiais;94;CHAPELAND Wilfrid;;;SENIOR;TETE A TETE;MASCULIN;69;Rhône;La Tour de Salvagny;Gentlemen-Pétanque-Club
+154;2001;Aurillac;15;QUINTAIS Philippe;;;SENIOR;TETE A TETE;MASCULIN;28;Eure & Loire;Hanches;Hanches-Pétanque
+155;2002;Cournon d'Auvergne;63;FAZZINO Christian;;;SENIOR;TETE A TETE;MASCULIN;03;Allier;Montluçon;Amicale les Marais
+156;2003;Dijon;21;FAZZINO Christian;;;SENIOR;TETE A TETE;MASCULIN;03;Allier;Montluçon;Amicale les Marais
+157;2004;Nevers;58;PILEWSKI Sylvain;;;SENIOR;TETE A TETE;MASCULIN;77;Seine & Marne;Verneuil l'Etang;P-M-Verneuil
+158;2005;Caen;14;RIZO Daniel;;;SENIOR;TETE A TETE;MASCULIN;06;Alpes Maritimes;Nice;Département Union Club
+159;2006;Belfort;90;FAZZINO Christian;;;SENIOR;TETE A TETE;MASCULIN;03;Auvergne;Montluçon;Amicale les Marais
+160;2007;St-Louis;68;TREMBLEAU Christophe;;;SENIOR;TETE A TETE;MASCULIN;45;Centre;Sully/Loire;C-S-M-Sullylois
+161;2008;Bourg St-Andéol;7;RANQUINE Sébastien;;;SENIOR;TETE A TETE;MASCULIN;64;Pyrénées-Atlantiques;Pau;Pétanque Pasteur
+162;2009;Aurillac;15;GEORGET Cyril;;;SENIOR;TETE A TETE;MASCULIN;86;Vienne;Chauvigny;Pétanque Club
+163;2010;Soustons;40;PHILIPSON Kévin;;;SENIOR;TETE A TETE;MASCULIN;80;Picardie;Ribemont/Ancre;Boule Joyeuse
+164;2011;Brive;19;SEVILLA Christophe;;;SENIOR;TETE A TETE;MASCULIN;27;Eure;Damville;Amicale Bouliste Damville
+165;2012;Beaucaire;30;ROUSSEAU Sébastien;;;SENIOR;TETE A TETE;MASCULIN;94;Val-de-Marne;Fresnes;Association Amicale Sportive
+166;2013;Caen;14;DA CUNHA Sébastien;;;SENIOR;TETE A TETE;MASCULIN;46;Lot;Gourdon;Gourdon Pétanque
+167;2014;Gruissan;11;ROCHER Dylan;;;SENIOR;TETE A TETE;MASCULIN;83;Var;Draguignan;Association Bouliste des Clubs de Draguignan
+168;2015;Troyes;10;ROCHER Dylan;;;SENIOR;TETE A TETE;MASCULIN;83;Var;Draguignan;Association Bouliste des Clubs de Draguignan
+169;2016;Montauban;82;LACROIX Henri;;;SENIOR;TETE A TETE;MASCULIN;83;Var;Draguignan;Association Bouliste des Clubs de Draguignan
+252;1992;Toulouse;31;DELSOL Pierre;ROBERT Jacques;LUFLADE Jean;VETERAN;TRIPLETTE;MASCULIN;33;Gironde;Bègles;A-P-La Ferrade
+253;1993;Sète;34;TCHILLIAN Marcel;CAMPILLO Barbino;SUZANNE Raymond;VETERAN;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;La Bouilladisse;Union Boule Bassin Minier
+254;1994;Dijon;21;TCHILLIAN Marcel;CAMPILLO Barbino;SUZANNE Raymond;VETERAN;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;La Bouilladisse;Union Boule Bassin Minier
+255;1995;Vals-les-Bains;7;MANOUKIAN Jean;GORTCHAKOFF Paul;BIANCOTTO Jacques;VETERAN;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Carry-le-Rouet;Pétanque Carryenne
+256;1996;Soustons;40;KOENIG Emile;BERTHET Jean-Pierre;FAZZINO Antoine;VETERAN;TRIPLETTE;MASCULIN;06;Alpes Maritimes;Nice;C-B du XV Corps
+257;1997;Armentières;59;DURAND J-Pierre;MUDJEREDIAN Jean;TRESANINI Ermano;VETERAN;TRIPLETTE;MASCULIN;75;Paris;Paris;Auteuil Paris Pétanque
+258;1998;Voujeaucourt;25;NELL Robert;KECHTEIL Roland;ROYUELA Denis;VETERAN;TRIPLETTE;MASCULIN;31;Haute-Garonne;Toulouse;La Digue Fer à cheval
+259;1999;Le Pradet;83;MANOUKIAN Jean;GORTCHAKOFF Paul;IELO Antoine;VETERAN;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Carry-le-Rouet;Pétanque Carryenne
+260;2000;Soustons;40;MONNIER Francis;ALLIER Raymond;SABATIER René;VETERAN;TRIPLETTE;MASCULIN;30;Gard;Nîmes;Club Sportif Cheminots
+261;2001;Lure;70;NELL Robert;KECHTEIL Roland;ROYUELA Denis;VETERAN;TRIPLETTE;MASCULIN;31;Haute-Garonne;Toulouse;La Digue Fer à cheval
+262;2002;Vals-les-Bains;7;LIGOUZAT Christian;BERNARD Jean-Claude;VIGNERON Armand;VETERAN;TRIPLETTE;MASCULIN;84;Vaucluse;Le Pontet;USP-Entente Bouliste
+263;2003;Limoges;87;SEMBOLINI Roland;GORTCHAKOFF Paul;VESTRI Edmond;VETERAN;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Carry-le-Rouet;Pétanque Carryenne
+264;2004;Castelnaudary;11;RAJCZA Edmond;SALVADOR Denis;ISSERT Gilbert;VETERAN;TRIPLETTE;MASCULIN;30;Gard;Quissac;Boule de l'enclos
+265;2005;Thônes;74;RAJCZA Edmond;SALVADOR Denis;ISSERT Gilbert;VETERAN;TRIPLETTE;MASCULIN;30;Gard;Quissac;Boule de l'enclos
+266;2006;Aurillac;15;RAJCZA Edmond;SALVADOR Denis;ISSERT Gilbert;VETERAN;TRIPLETTE;MASCULIN;30;Gard;Quissac;Boule de l'enclos
+267;2007;Soustons;40;DIDES Jacky;PRADEILLES Claude;METAILLER Alain;VETERAN;TRIPLETTE;MASCULIN;48;Lozère;Mende;Mende Gévaudan CP
+268;2008;Ste-Livrade;47;BOYER-JOLY J-Marie;DUBOST Pierre;PEYRON J-Claude;VETERAN;TRIPLETTE;MASCULIN;26;Drome;Nyons;Pétanque Nyons
+269;2009;Moulins;3;COSTA Christian;MARESTIN François;MAGALINI Giorgio;VETERAN;TRIPLETTE;MASCULIN;78;Yvelines;St-Germain en Laye;Stade St-Germanois
+270;2010;Sedan;8;ENOCQ Christian;TERRADE J-Claude;GLORIAN Gabriel;VETERAN;TRIPLETTE;MASCULIN;46;Lot;Biars/Cere;Pétanque Biarnaise
+271;2011;Canéjan;33;MARIN Claude;GARNERO François;DEVINI Claude;VETERAN;TRIPLETTE;MASCULIN;83;Var;Draguignan;A-B-C Draguignan
+272;2012;Anduze;30;SOUCHE Jacques;COSTA Yves;BUISSON Claude;VETERAN;TRIPLETTE;MASCULIN;30;Gard;Nîmes;A-E-M
+273;2013;Castelnaudary;11;BARRAUD Claude;GOLTAIS Daniel;MARCO Michel;VETERAN;TRIPLETTE;MASCULIN;35;Bretagne;Bourg-des-Comptes;Petanque Bourgcomtoise
+274;2014;Mende;48;LABBE Gérard;POPINEAU Roger;DREURE Roger;VETERAN;TRIPLETTE;MASCULIN;3;Auvergne;Moulins;Pétanque Moulinoise
+275;2015;Saint-Cannat;13;UHLMAN Jean;REBUFFAT Jean-Marc;HUMBLOT Gérard;VETERAN;TRIPLETTE;MASCULIN;84;Vaucluse;Carpentras;J-B-A-G Carpentras
+276;2016;Guînes;62;COLL Patrick;SCHNEITER Patrick;PAILLARES Serge;VETERAN;TRIPLETTE;MASCULIN;33;Gironde;Gujan-Mestras;Petanque Gujanaise
+277;1957;Toulouse;31;FERULLO Robert;TORRES Henri(1);TORRES Henri(2);JUNIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Marseille;Boule de Popeye
+278;1958;Valence;26;SIDNEY Gérard;CARBONNIER Pierre;GARCIA Bernard;JUNIOR;TRIPLETTE;MASCULIN;63;Puy-de-Dôme;Clermont-Ferrand;Liberté Club Pétanque
+279;1959;Tarbes;65;DOTTA Jacky;COCQUENET Jacky;DONI Séraphin;JUNIOR;TRIPLETTE;MASCULIN;10;Aube;Troyes;Non Homogène
+280;1960;Clermont-Ferrand;63;ARTILLAN Jean;ARTILLAN Antoine;FLOURET Fernand;JUNIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Marseille;Endoume-Roseraie Boules 
+281;1961;Béziers;34;RICHARD Robert;PEREZ Michel;LAPEYRE Marc;JUNIOR;TRIPLETTE;MASCULIN;11;Aude;Narbonne;ASPTT
+282;1962;Bordeaux;33;RICHARD Robert;PEREZ Michel;LAPEYRE Marc;JUNIOR;TRIPLETTE;MASCULIN;11;Aude;Narbonne;ASPTT
+283;1963;Toulouse;31;FERNANDEZ Jacques;LASSALLE Bernard;CHAUSY Serge;JUNIOR;TRIPLETTE;MASCULIN;33;Gironde;Bordeaux;Belcier-Pétanque
+284;1964;Carcassonne;11;MEDIANI André;DEYMERDJIAN André;CERLI Antoine;JUNIOR;TRIPLETTE;MASCULIN;83;Var;Toulon;Boule Joyeuse
+285;1965;Verneuil/Avre;27;PERILHOU J-Bernard;GIBERGUES J-Claude;CAUSSE Claude;JUNIOR;TRIPLETTE;MASCULIN;12;Aveyron;Villefranche de Rouergue;Pétanque Villefranchoise
+286;1966;Vichy;63;ROUVIERE Serge;DEGUILHEM Patrice;DUMAS Alain;JUNIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Arles;Boule Cheminote
+287;1967;Chalon/Saône;71;CHAGNEAU Philippe;CHAGNEAU J-Pierre;LOPEZ Michel;JUNIOR;TRIPLETTE;MASCULIN;33;Gironde;Bordeaux;Belcier-Pétanque
+288;1968;Royan;17;MARCY Marceau;ZMUDA Joel;KUPIAK Michel;JUNIOR;TRIPLETTE;MASCULIN;94;Paris;Créteil;Cochonnet de Créteil
+289;1969;Vals-les-Bains;7;DEYTS Claude;FREDON Jean-Pierre;POUYANNE Henri;JUNIOR;TRIPLETTE;MASCULIN;33;Gironde;Bordeaux;Pétanque Emile-Combes
+290;1970;Limoges;87;ESTRADE Georges;LESGOURGUES Philippe;GIMENEZ Hubert;JUNIOR;TRIPLETTE;MASCULIN;31;Haute-Garonne;Toulouse;Toulouse-Electro-Gaz
+291;1971;Thiers;63;VETTER Etienne;MELINA Charles;DARMAND René;JUNIOR;TRIPLETTE;MASCULIN;26;Drome;Romans;U-P-Romans
+292;1972;Béziers;34;GAILLARD René;DOMENECH Raymond;PIERUCCI François;JUNIOR;TRIPLETTE;MASCULIN;34;Hérault;Bédarieux;Joyeuse Pétanque
+293;1973;Lourdes;65;BOCH Alain;BALLESTER Thierry;RABIER Didier;JUNIOR;TRIPLETTE;MASCULIN;34;Hérault;Montpellier;A-S-Cheminots
+294;1974;Toulouse;31;GALLY André;BARATAUD Patrick;AUTEBON Serge;JUNIOR;TRIPLETTE;MASCULIN;31;Haute-Garonne;Toulouse;C-B-St-Pierre
+295;1975;Montélimar;26;LEGAL Alain;TRUILHE Bernard;RAYSSAC Patrick;JUNIOR;TRIPLETTE;MASCULIN;82;Tarn & Garonne;Valence d'Agen;Plaça-Pétanque
+296;1976;Cahors;46;SENJEAN Eric;SENJEAN Jean-Luc;GARCIA François;JUNIOR;TRIPLETTE;MASCULIN;40;Landes;Dax;ASPTT
+297;1977;St-Quentin;2;BAUER Florian;BAUER Maurice;ZIGLER Joseph;JUNIOR;TRIPLETTE;MASCULIN;12;Aveyron;Rodez;Pétanque-Club
+298;1978;Chambéry;73;BOUBIN Philippe;LAVEAU Didier;HIOLLET Didier;JUNIOR;TRIPLETTE;MASCULIN;89;Yonne;St-André-Joigny;Pétanque-Club
+299;1979;Montluçon;3;DOMEC Eric;LACROUX Thierry;MARIS Bernard;JUNIOR;TRIPLETTE;MASCULIN;31;Haute-Garonne;Toulouse;Vieille-Toulouse
+300;1980;Tours;37;THOREL Pascal;THOREL Gwénael;THOREL Bruno;JUNIOR;TRIPLETTE;MASCULIN;44;Loire-Atlantique;St-Nazaire;Pét Omnisport (SNOS)
+301;1981;La Courneuve;93;LAMBERT Philippe;BIGOIN Jean-Claude;ZEMMOUR Laurent;JUNIOR;TRIPLETTE;MASCULIN;94;Val-de-Marne;Fresnes;Asso-Amicale-Sportive
+302;1982;St-Nazaire;44;DULONG Patrick;DULONG Yannick;HAMOIR Philippe;JUNIOR;TRIPLETTE;MASCULIN;64;Pyrénées-Atlantiques;Mourenx;Amicale-Boule-Complexe
+303;1983;Lunéville;54;SOLIGON Alain;PEDURAND Franck;ABAD Patrick;JUNIOR;TRIPLETTE;MASCULIN;82;Tarn & Garonne;Castelsarrasin;E-B-Château Castel
+304;1984;Tours;37;PEIFER Manuel;BARDOT Pascal;ASIR Dilaver;JUNIOR;TRIPLETTE;MASCULIN;57;Moselle;Sarreguemines;Pétanque-A-S
+305;1985;St-Etienne;42;ROCHER Bruno;LUREAU Franck;GERMAIN Eric;JUNIOR;TRIPLETTE;MASCULIN;72;Sarthe;La Ferté-Bernard;Vélo-Sport-Fertois
+306;1986;Toulouse;31;REMIATTE Laurent;REMIATTE Dominique;PONTINHA Eric;JUNIOR;TRIPLETTE;MASCULIN;57;Moselle;Nilvange;Pétanque-Club
+307;1987;Chalon/Saône;71;GUILLO Thierry;GUYONNET Stéphane;ROBIN David;JUNIOR;TRIPLETTE;MASCULIN;42;Loire;Firminy;A-P-L Firminy-Vert
+308;1988;Brétigny/Orge;91;SANTIAGO Pierre;BARTHELEMY Maryan;FERRAZZOLA Franck;JUNIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Marseille;Boule Sucrée
+309;1989;Gaillard;74;ROGER Fabrice;LOPEZ Julio;BELHAJ Abdelaziz;JUNIOR;TRIPLETTE;MASCULIN;91;Essonne;St-Germain lès Arpajon;Pétanque-Club
+310;1990;Vesoul;70;MOLDT Franck;RIBERO Laurent;SCARZELLA Denis;JUNIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Biver/Aix-en-Prov;Non Homogène
+311;1991;Soustons;40;PIZZOLATO Jérome;TARTAROLI Christophe;BURET Laurent;JUNIOR;TRIPLETTE;MASCULIN;82;Tarn & Garonne;Castelsarrasin;E-B-Château Castel
+312;1992;Nancy;54;SUPPA Marc;GUIDONE Jérome;SCARZELLA Denis;JUNIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Aix-en-Provence;Western Club Pétanque
+313;1993;Vichy/Bellerive;3;PUAUD Rudy;TROMEUR Lilian;RUSSON Freddy;JUNIOR;TRIPLETTE;MASCULIN;44;Loire-Atlantique;St-Nazaire;St-Nazaire Pétanque
+314;1994;Béziers;34;CANO Antoine;RIVIERE Nicolas;RIZO Daniel;JUNIOR;TRIPLETTE;MASCULIN;06;Alpes Maritimes;Nice;C-B du XV Corps
+315;1995;Amnéville;57;GUET Freddy;FINELLE Arnaud;RICHARD Maxime;JUNIOR;TRIPLETTE;MASCULIN;72;Sarthe;La Ferté-Bernard;Vélo-Sport-Fertois
+316;1996;Nevers;58;BOUTET Claude;LE CLANCHE Romain;TONDU Adrien;JUNIOR;TRIPLETTE;MASCULIN;45;Loiret;Nogent/Puiseaux/Malesherbes;Non Homogène
+317;1997;Le Mans;72;RIFFI Hamid;INNOCENTI Grégory;SOTO Alban;JUNIOR;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;St-Martin de Crau;Boule Commerciale
+318;1998;Vichy/Bellerive;3;GUIDO Grégory;KUBLER Thierry;ALEMBERT Sébastien;JUNIOR;TRIPLETTE;MASCULIN;92;Hauts-de-Seine;Gennevilliers;Charly-Pétanque
+319;1999;Perpignan;66;COUPE Franck;CAPELLA Stéphane;LAMOUR Julien;JUNIOR;TRIPLETTE;MASCULIN;35;Ille-et-Vilaine;St-Malo/Rennes;Non Homogène
+320;2000;Nîmes;30;THIBOUT David;BARBER Benjamin;CAMIN Laurent;JUNIOR;TRIPLETTE;MASCULIN;11;Aude;Coursan;Coursan-Pétanque
+321;2001;Bordeaux;33;BARDY Laurent;REGNEAU Fabien;BOURDIN Mickael;JUNIOR;TRIPLETTE;MASCULIN;45;Loiret;Orléans-Fleury;Cercle J-Ferry Pétanque
+322;2002;Vichy/Bellerive;3;THIEBAUT Adrien;HARTUNG Frédéric;STEIB Grégory;JUNIOR;TRIPLETTE;MASCULIN;54;Meurthe & Moselle;Nancy/Pont-à-Mousson;Non Homogène
+323;2003;Illzach;68;PRIEUR Anthony;GASPARD Christopher;MONIN Jimmy;JUNIOR;TRIPLETTE;MASCULIN;51;Champagne-Ardennes;Reims;Non Homogène
+324;2004;Valence;26;TEISSIER Lonny;AUJOULAT David;KORE Joyce;JUNIOR;TRIPLETTE;MASCULIN;30;Gard;Salindres/Gd-Combe/Milhaud;Non Homogène
+325;2005;Nevers;58;SAVIN Angy;PERRET Tony;VANEL Maxime;JUNIOR;TRIPLETTE;MASCULIN;84;P-A-C-A;Monteux/Orange;Non Homogène
+326;2006;Nantes;44;MICHEL Patxi;MAYER Christophe;THIERRY Romain;JUNIOR;TRIPLETTE;MASCULIN;64;Pyrénées-Atlantiques;Bayonne/Biron/ Artix;Non Homogène
+327;2007;Montluçon;3;MARION Kévin;CLERE Logan;ROGET Geoffrey;JUNIOR;TRIPLETTE;MASCULIN;59;Hauts-de-France;Dunkerque/Ford-Mardyck/Haumont;Non Homogène
+328;2008;Romans;26;ROCHER Dylan;ROCHER Gueven;COUTANSON Florent;JUNIOR;TRIPLETTE;MASCULIN;72;Sarthe;Le Mans;Club Rocher Le Mans
+329;2009;Nevers;58;MOUREAUX-FONTAN Vianney;ROCHER Gueven;ROGER Mathieu;JUNIOR;TRIPLETTE;MASCULIN;64;Pyrénées-Atlantiques;Biron/Pau;Non Homogène
+330;2010;Beaucaire;30;CASSAGNAUD Kévin;CHAMPIGNEUL Kenny;GHRIFA Kévin;JUNIOR;TRIPLETTE;MASCULIN;81;Tarn;Aussillon/St-Sulpice/Gaillac;Non Homogène
+331;2011;Beaucaire;30;ROUSSEAU Baptiste;ROCHER Mendy;VIELLE Alexandre;JUNIOR;TRIPLETTE;MASCULIN;72;Sarthe;Le Mans;Club Rocher Le Mans
+332;2012;Nevers;58;VERZEAUX Médéric;RAMEAU Benjamin;POMMIER Benoît;JUNIOR;TRIPLETTE;MASCULIN;71;Bourgogne;Mâcon/Montceau-les-Mines;Non Homogène
+333;2013;Nevers;58;CHALOT Romain;VAILLANT Thibaud;VIELLE Alexandre;JUNIOR;TRIPLETTE;MASCULIN;72;Pays-de-la-loire;Château-du-Loir/Le Mans;Non Homogène
+334;2014;Soustons;40;DE MACEDO Antoine;BEULAMA Valentin;PINTO Enzo;JUNIOR;TRIPLETTE;MASCULIN;3;Auvergne;Montluçon;Amicale des Marais
+335;2015;Nevers;58;VAILLANT Thibaud;ZENI Fabio;GERMAIN Incliff;JUNIOR;TRIPLETTE;MASCULIN;72;Sarthe;Le Mans/Arnage;Non Homogène
+336;2016;Varennes-sur-Allier;3;GODARD Thomas;ESCOLANO Thibault;BOULANGER Delson;JUNIOR;TRIPLETTE;MASCULIN;82;Midi-Pyrénées;Montpezat-de-Quercy;Petanque Montpezataise
+337;1962;Bordeaux;33;LE HER Hervé;BOURREL Jean-Pierre;ARAUD Christian;CADET;TRIPLETTE;MASCULIN;31;Haute-Garonne;Toulouse;Club du Fer-à-Cheval
+338;1963;Toulouse;31;ROUVIERE Serge;DEGUILHEM Patrice;PERRE Henri;CADET;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Arles;Boule Provençale
+339;1964;Carcassonne;11;COUSTET Guy;MALBOSC Claude;CAUSSE Guy;CADET;TRIPLETTE;MASCULIN;12;Aveyron;Villefranche de Rouergue;Pétanque Villefranchoise
+340;1965;Verneuil/Avre;27;GARDERES Pierre;GARDERES Bernard;TISNE Roger;CADET;TRIPLETTE;MASCULIN;33;Gironde;Bordeaux;Non Homogène
+341;1973;Lourdes;65;JAMMEAU William;TROBOUL Jean-Claude;EVEILLAU Gilles;CADET;TRIPLETTE;MASCULIN;72;Sarthe;Sélection CD;Non Homogène
+342;1974;Toulouse;31;BRUNET J-Denis;DUGENY Jean-Charles;CASTAING Daniel;CADET;TRIPLETTE;MASCULIN;33;Gironde;Bordeaux;Pétanque Bastidienne
+343;1975;Montélimar;26;ANSELMO Lionel;MAYEUR Jean-Claude;PLANQUAIS Christian;CADET;TRIPLETTE;MASCULIN;76;Seine-Maritime;Rouen;R-P-B-O
+344;1976;Cahors;46;GENOT Bruno;GENIEUX Richard;HUMBERT Eric;CADET;TRIPLETTE;MASCULIN;71;Saone & Loire;Chatenoy;Pétanque A-B Le Royal
+345;1977;St-Quentin;2;THOREL Pascal;THOREL Gwénael;THOREL Bruno;CADET;TRIPLETTE;MASCULIN;44;Loire-Atlantique;St-Nazaire;Pét Omnisport (SNOS)
+346;1978;Chambéry;73;RIPORTELLA Norbert;GUILLERMINET Richard;JACQUET Jean-Claude;CADET;TRIPLETTE;MASCULIN;38;Isère;Echirolles;Villeneuve Pétanque
+347;1979;Montluçon;3;CHAIGNEAU Denis;DELAVAULT Laurent;MARTIN Nicolas;CADET;TRIPLETTE;MASCULIN;86;Vienne;Rouillé;Club Grand-Breuil
+348;1980;Tours;37;CROVI Bruno;MUNOZ Blaise;RABET Patrick;CADET;TRIPLETTE;MASCULIN;83;Var;Fréjus;Boule du Coq
+349;1981;La Courneuve;93;VILLIELM Serge;KOURANE Kamel;ALBA Stéphane;CADET;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Marseille;Non Homogène
+350;1982;Lamoura;44;DEPOIL Yves;MORANDET Christophe;TARIN Mickael;CADET;TRIPLETTE;MASCULIN;71;Saone & Loire;Varennes-le-Grand;Pétanque Varnoise
+351;1983;Lunéville;54;MARCO Bruno;BRANDANI Michel;PEREZ Vincent;CADET;TRIPLETTE;MASCULIN;34;Hérault;Cap d'Agde;Boule du Cap d'Agde
+352;1984;Tours;37;BACON Steeve;BARCELONA José;TREGLIA Laurent;CADET;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Lançon-de-Provence;Boule Baïssenque
+353;1985;St-Etienne;42;DOISEL François;PEPPUY Eric;PAYET Mariano;CADET;TRIPLETTE;MASCULIN;974;La Réunion;Le Port/St-Denis de la Réunion;Non Homogène
+354;1986;Toulouse;31;DOSNE Franck;DELENCLOS Sébastien;RAMOS Fernando;CADET;TRIPLETTE;MASCULIN;74;Haute-Savoie;Morzine/Champanges;Non Homogène
+355;1987;Armentières;71;VAILLANT Eric;DESCHATRETTE Sébastien;RAMACH Karim;CADET;TRIPLETTE;MASCULIN;36;Indre;Châteauroux;A-P-Castelroussine
+356;1988;Lamoura;91;LESUEUR Mickael;GANCEL Christophe;CAMPAGNE Mickael;CADET;TRIPLETTE;MASCULIN;14;Calvados;Trévières;Pétanque Trévièroise
+357;1989;St-Lô;50;LACROIX Henri;AGARRAT Hervé;PALMIERI Yves;CADET;TRIPLETTE;MASCULIN;83;Var;La Farlède;Jeune Boule Farlède
+358;1990;Tours;70;GASC Sébastien;BARRAUD Patrick;PASIAN Yoann;CADET;TRIPLETTE;MASCULIN;34;Hérault;Castelnau le Lez;Pétanque Castelnau
+359;1991;Bourg-en-Bresse;40;LEFLER Michel;RANQUINE Frédéric;CORTES Lionel;CADET;TRIPLETTE;MASCULIN;64;Pyrénées-Atlantiques;Mourenx;Amicale Boule Complexe
+360;1992;Angers;54;ARNAUDEAU Cyril;BROSSARD Vincent;SEGUIN Cédric;CADET;TRIPLETTE;MASCULIN;17;Charente Maritime;Jonzac;Boule de Jonzac
+361;1993;Vichy/Bellerive;3;TREMBLEAU Christophe;PLANCHENAULT Emmanuel;DELANGE Romain;CADET;TRIPLETTE;MASCULIN;45;Loiret;Chateauneuf/ Malesherbes;Non Homogène
+362;1994;Béziers;34;EGEA Stéphane;JOURNEL Romain;BLANC Sébastien;CADET;TRIPLETTE;MASCULIN;30;Gard;Nîmes;Amicale-Empl-Municipaux
+363;1995;Amnéville;57;LEBOUTEILLER Jérome;BUSNEL Tony;TURMEL Gaylord;CADET;TRIPLETTE;MASCULIN;14;Calvados;Calmette/Mondeville;Non Homogène
+364;1996;Nevers;58;BELHACHE Mickael;QUENNEHEN Cynthia;LEFOLL Cédric;CADET;TRIPLETTE;MASCULIN;76;Seine-Maritime;Gonfreville/Le Havre;Non Homogène
+365;1997;Le Mans;72;GREUILLET Rémy;QUINTANEIRO Samuel;SEBA Adrien;CADET;TRIPLETTE;MASCULIN;77;Seine & Marne;Nemours;Pétanque U-S-Nemours
+366;1998;Vichy/Bellerive;3;PARAIN Thomas;CHANWAIKI Thierry;DUGAL Florian;CADET;TRIPLETTE;MASCULIN;91;Essonne;Vigneux/Brunoy/Massy;Non Homogène
+367;1999;Perpignan;66;PARAIN Thomas;BOYER Mickael;PINA David;CADET;TRIPLETTE;MASCULIN;91;Essonne;Vigneux;Vigneux Pétanque
+368;2000;Nîmes;30;CANO Sébastien;GIUSTINIANI Philippe;QUERY Christophe;CADET;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;Vitrolles/St-Julien les Martigues;Non Homogène
+369;2001;Bordeaux;33;CARLIER Kévin;LEMAIRE Rémy;BAILLEUL Julien;CADET;TRIPLETTE;MASCULIN;62;Pas-de-Calais;Dourges/Hénin-Beaumont;Non Homogène
+370;2002;Vichy/Bellerive;3;SAVIN Angy;PERRET Tony;GOMIS Jérémy;CADET;TRIPLETTE;MASCULIN;84;Vaucluse;Monteux;Entente-Bouliste-Monteux
+371;2003;Lamoura;68;SAVIN Angy;PERRET Tony;RICHARD Mathieu;CADET;TRIPLETTE;MASCULIN;84;Vaucluse;Monteux;Entente-Bouliste-Monteux
+372;2004;Valence;26;DUTHOIT Charles;VANDEROSIEREN Hillary;MARION Kévin;CADET;TRIPLETTE;MASCULIN;59;Nord;Hazebrouk/Bailleul/Dunkerque;Non Homogène
+373;2005;Nevers;58;ROCHER Dylan;ROCHER Gueven;RIBEMONT Kévin;CADET;TRIPLETTE;MASCULIN;72;Pays-de-la-loire;Allonnes;Jeunesses Sportives
+374;2006;Nantes;44;DETRY Maxime;DURANDO Julien;ARMANDO Anne-Emilie;CADET;TRIPLETTE;MASCULIN;06;P-A-C-A;Cannes/Antibes;Non Homogène
+375;2007;Montluçon;3;DARDET Alexandre;DEBARD Jordy;ROCHE Edgard;CADET;TRIPLETTE;MASCULIN;26;Rhône-Alpes;Livron;Joyeux Pétanqueurs
+376;2008;Romans;26;SANS Jérémy;VAZ Kévin;LUCCHETTA Thomas;CADET;TRIPLETTE;MASCULIN;31;Midi-Pyrénées;Fonsorbes/Labastide-Clermont;Non Homogène
+377;2009;Nevers;58;ROCHER Mendy;ROUSSEAU Baptiste;VIELLE Alexandre;CADET;TRIPLETTE;MASCULIN;72;Sarthe;Le Mans:Le Mans;Non Homogène
+378;2010;Beaucaire;30;STURNI Jérémy;ELLWANGER Kévin;LEBLOND Gaétan;CADET;TRIPLETTE;MASCULIN;67;Alsace;Oberhoffen/Gamsheim;Non Homogène
+379;2011;Beaucaire;30;DROUILLET Maxime;WATRIN Boris;WATRIN Justine;CADET;TRIPLETTE;MASCULIN;2;Aisne;Crouy/Vervins;Non Homogène
+380;2012;Nevers;58;MINODIER Corentin;MARION Florian;CHOLEWA Corentin;CADET;TRIPLETTE;MASCULIN;7;Rhône-Alpes;Guilerand-Granges/Saint-Peray-Cornas;Non Homogène
+381;2013;Nevers;58;GAVREL Luc;DELASSUS Jason;PONTHOU Mathieu;CADET;TRIPLETTE;MASCULIN;62;Hauts-de-France;Cauchy-à-la-Tour/Marck;Non Homogène
+382;2014;Soustons;40;DESPORT Lucas;HUBATZ Thomas;BUGNET Guillaume;CADET;TRIPLETTE;MASCULIN;24;Aquitaine;Périgueux/Montanceix/Naillac;Non Homogène
+383;2015;Nevers;58;BERNAL Thomas;TASSERIT Grégory;Fontaine Alexis;CADET;TRIPLETTE;MASCULIN;33;Aquitaine;Le Nizan/Bazas;Non Homogène
+384;2016;Varennes-sur-Allier;3;BELLOY Axel;HROU Yanice;LAVILLE Enzo;CADET;TRIPLETTE;MASCULIN;60;Picardie;Pont-Sainte-Maxence/Compiègne/Chantilly;Non Homogène
+385;1984;Tours;37;GOMEZ Patrick;VIGUE Philippe;AUSET Olivier;MINIME;TRIPLETTE;MASCULIN;66;Pyrénées-Orientales;Perpignan;St-Martin Pétanque
+386;1985;St-Etienne;42;PECOT Régis;FORMENTINI Lionel;CHERKAOUI Jean-Pierre;MINIME;TRIPLETTE;MASCULIN;83;Var;Agay;Union Bouliste Agay
+387;1986;Toulouse;31;LEFORT Eric;BARRE Romain;BRICHET Benoit;MINIME;TRIPLETTE;MASCULIN;08;Ardennes;Neufmanil/Charleville;Non Homogène
+388;1987;Armentières;71;CORTES Ludovic;CORTES Anthony;ENRIQUE Didier;MINIME;TRIPLETTE;MASCULIN;66;Pyrénées-Orientales;Le Boulou;Club les Oliviers
+389;1988;Lamoura;91;ERROUX Benoit;ROMERO Nicolas;SALLE Jérome;MINIME;TRIPLETTE;MASCULIN;61;Orne;Tinchebray/L'Aigle;Non Homogène
+390;1989;St-Lô;50;BEGIER Loïc;BRUYERE Johan;HAMMOU Eddy;MINIME;TRIPLETTE;MASCULIN;59;Nord;Haveluy;Pétanque Haveluynoise
+391;1990;Tours;70;PARDAL Jean;FREITAS Filippe;DEMEILLEZ Cyril;MINIME;TRIPLETTE;MASCULIN;91;Essonne;Morangis;Amicale Réunionnais
+392;1991;Bourg-en-Bresse;40;PATRAC Sébastien;SAUVAGET Frédéric;QUANTIN Alexandre;MINIME;TRIPLETTE;MASCULIN;34;Hérault;Agde;Elan-Pétanqueurs
+393;1992;Angers;54;POULAIN Julien;LEFEBVRE Mickael;DELATTRE Christophe;MINIME;TRIPLETTE;MASCULIN;02;Aisne;St-Maucouret;Pétanque-Club
+394;1993;Vichy/Bellerive;3;DUGAL Florian;DANNELY Sandy;COQUART Guillaume;MINIME;TRIPLETTE;MASCULIN;91;Seine-Saint-Denis;Palaiseau/Wissous;Non Homogène
+395;1994;Béziers;34;CANITROT Wilfrid;SANCHEZ Romain;SCALA Jean-Luc;MINIME;TRIPLETTE;MASCULIN;82;Tarn & Garonne;Castelsarrasin;E-B-Château Castel
+396;1995;Amnéville;57;SALA Jordane;ANDRE Adrien;SKORACKI Alan;MINIME;TRIPLETTE;MASCULIN;57;Moselle;Hombourg-Haut;Pétanque des Chênes
+397;1996;Nevers;58;LAFLEUR Frantz;LAFLEUR Teddy;NOEL Kévin;MINIME;TRIPLETTE;MASCULIN;31;Haute-Garonne;Blagnac;P-C Blagnacais du Parc
+398;1997;Le Mans;72;LECLERC Loïc;HARTUNG Frédéric;ESPOSITO Lucas;MINIME;TRIPLETTE;MASCULIN;54;Meurthe & Moselle;St-Nicolas de Port/Moutiers;Non Homogène
+399;1998;Vichy/Bellerive;3;SANCHEZ Julie;LEVEQUE Thomas;FLAMANT Mathias;MINIME;TRIPLETTE;MASCULIN;02;Aisne;Laon/Vervins;Frat Cheminots/PC Vervinois
+400;1999;Perpignan;66;SAVIN Angy;PERRET Tony;AZZINARI Anthony;MINIME;TRIPLETTE;MASCULIN;84;Vaucluse;Faucon/Carpentras/Monteux;Non Homogène
+401;2000;Nîmes;30;MARTHE Jonathan;WAGENFUHR Fabien;MALLINGER Kévin;MINIME;TRIPLETTE;MASCULIN;54;Meurthe & Moselle;Baccarat/Lunéville/Essey;Non Homogène
+402;2001;Bordeaux;33;CAZAUX Florent;BOUSCARY Vincent;MENDEZ Rémy;MINIME;TRIPLETTE;MASCULIN;40;Landes;Herm/Mimizan/Labatut;Non Homogène
+403;2002;Vichy/Bellerive;3;HENOCQUE Florent;LEVASSEUR Florian;LECERF Alexandre;MINIME;TRIPLETTE;MASCULIN;80;Somme;Feuquieres-en-Vimeu;Pétanque Feuquiéroise
+404;2003;Lamoura;68;RIBEMONT Kévin;ROUSSEAU Baptiste;ROCHER Gueven;MINIME;TRIPLETTE;MASCULIN;72;Sarthe;Allonnes;Jeunesses Sportives
+405;2004;Valence;26;BARTOLI Kévin;KESSACI Karim;TAMBON Pierre;MINIME;TRIPLETTE;MASCULIN;13;Bouches-du-Rhone;St-Julien les Martigues/Aix;Non Homogène
+406;2005;Nevers;58;CARLES Anthony;BARASCUD Romain;ROSICH Romain;MINIME;TRIPLETTE;MASCULIN;12;Aveyron;Belmont/Rance;Boule Belmontoise
+407;2006;Nantes;44;GARNIER Dylan;MAGUIER Brandon;CABANAT Benoit;MINIME;TRIPLETTE;MASCULIN;17;Charente Maritime;Mathes/Royan/ St-Jen d'Angély;Non Homogène
+408;2007;Montluçon;3;RIVIERE Benjamin;CASCADE Emmerick;MASSIBOU Quentin;MINIME;TRIPLETTE;MASCULIN;974;La Réunion;Ste-Thérése;C-B-Sirius Ste-Thérése
+409;2008;Romans;26;DEMPTOS Valentin;BALAUZE Florian;SOUGNOUX Alexis;MINIME;TRIPLETTE;MASCULIN;33;Aquitaine;Capian/Bommes/Fontet;Non Homogène
+410;2009;Nevers;58;GOMEZ François;AUGIER Alexandre;AZEVEDO Vincent;MINIME;TRIPLETTE;MASCULIN;06;Alpes Maritimes;Nice;CB Xvème Corps
+411;2010;Beaucaire;30;MOLINAS Joseph;DUBOIS Fernand;DUBOIS Jacques;MINIME;TRIPLETTE;MASCULIN;30;Gard;Manduel;Boule de Feu
+412;2011;Beaucaire;30;GOMEZ François;AUGIER Alexandre;AZEVEDO Vincent;MINIME;TRIPLETTE;MASCULIN;6;Alpes Maritimes;Nice;C-B du XV Corps
+413;2012;Nevers;58;GRANGIRARD Théo;PONSERO Théo;AMAND Julien;MINIME;TRIPLETTE;MASCULIN;30;Languedoc-Roussillon;Saint-Julien-les-Rosiers/Laudun;Non Homogène
+414;2013;Nevers;58;BALOGE Marius;PAQUET Maxime;BAUJAULT Maxence;MINIME;TRIPLETTE;MASCULIN;79;Poitou-Charentes;Champdeniers/Bressuire;Non Homogène
+415;2014;Soustons;40;BRUN Chun;LOVATEL Océane;FAYARD Matt;MINIME;TRIPLETTE;MASCULIN;81;Midi-Pyrénées;Gaillac/lavaur;Non Homogène
+416;2015;Nevers;58;LASTELLA Léo;GIOVALE-MERLO Etienne;BONNER Thomas;MINIME;TRIPLETTE;MASCULIN;38;Rhône-Alpes;Gières;Petite Boule de Gières
+417;2016;Varennes-sur-Allier;3;MENCARELLI Dawson;IVANOVITCH Diego;BELAVAL Jessy;MINIME;TRIPLETTE;MASCULIN;31;Midi-Pyrénées;Touliuse;T-P-O
+197;2003;Rodez;12;LEO Ida;PY Emilie;PY Sylvia;SENIOR;TRIPLETTE;FEMININ;70;Haute-Saone;Lure;Pétanque Sapeur
+198;2004;Lons-le-Saunier;39;COLOMBET/PAPON Angélique;VIREBAYRE Marie-Christ.;SCHOPP Florence;SENIOR;TRIPLETTE;FEMININ;63;Auvergne;Cournon d'Auvergne;Joyeux Cochonnet
+199;2005;Croix;59;KOUADRI Ranya;QUENNEHEN Cynthia;MONTEIRO Sandra;SENIOR;TRIPLETTE;FEMININ;69;Rhône;Bron-Terraillon;Pétanque Bron-Terraillon
+200;2006;Vichy;3;FERRET/MASSICOT Karine;TINGAUD Magalie;DAUVERGNE Maryline;SENIOR;TRIPLETTE;FEMININ;36;Centre;Châteauroux;Stars pétanque Castelroussine
+201;2007;Soustons;40;COLOMBET/PAPON Angélique;VIREBAYRE Marie-Christ.;SCHOPP Florence;SENIOR;TRIPLETTE;FEMININ;63;Auvergne;Ambert;Elite Club Ambert
+202;2008;Gruissan;11;COLOMBET/PAPON Angélique;VIREBAYRE Marie-Christ.;SCHOPP Florence;SENIOR;TRIPLETTE;FEMININ;63;Auvergne;Cournon d'Auvergne;Joyeux Cochonnet
+203;2009;Beaucaire;30;CHAPUS Fabienne;CAILOTTO Nancy;SCUDERI Muriel;SENIOR;TRIPLETTE;FEMININ;30;Gard;Salindres;A-S Salindroise
+204;2010;Cahors;46;MAILLARD Anna;VITRAC-SAGAZ Josiane;BAUSSIAN Nadège;SENIOR;TRIPLETTE;FEMININ;46;Midi-Pyrénées;Cahors;Cahors-Sport-Pétanque
+205;2011;Fos-sur-Mer;13;PEYRE Nelly;LAPOUTGE Anaïs;PONTAC Pascale;SENIOR;TRIPLETTE;FEMININ;31;Haute-Garonne;Saint-Martory;E-S Saint-Martoryenne
+206;2012;Pau;6;SONGEUX Valérie;AIT IDIR Gidgia;BACON Morgane;SENIOR;TRIPLETTE;FEMININ;77;Seine & Marne;Ozoir-la-Ferrière;Ozoir-la-Ferrière Pétanque
+207;2013;Beaucaire;30;SAVEL Brigitte;LABAT Frédérique;BEDZIECHOWSKI Adline;SENIOR;TRIPLETTE;FEMININ;77;Seine & Marne;Barbizon;Star Master's P-C
+208;2014;Laval;53;BANDIERA Audrey;D'ISIDORO Ludivine;RAMOS Sylviane;SENIOR;TRIPLETTE;FEMININ;63;Auvergne;Cournon d'Auvergne;J-C Cournon-d'Auvergne
+209;2015;Montauban;82;PEYROT Cindy;COLOMBET/PAPON Angélique;RODRIGUEZ Alison;SENIOR;TRIPLETTE;FEMININ;63;Auvergne;Cournon d'Auvergne;J-C Cournon-d'Auvergne
+210;2016;Bagnois-sur-Cèze;30;SCUDERI Muriel;ESCODA Léa;CHAPUS Fabienne;SENIOR;TRIPLETTE;FEMININ;30;Gard;Salindres;A-S Salindroise
+211;1976;Joué-les-Tours;37;GROS Danielle;LOMBARD Maité;;SENIOR;DOUBLETTE;FEMININ;83;Var;Solliés-Pont;La Solliésine
+212;1977;Nevers;58;CHANTEDUC Sylviane;INNOCENTI Sylvette;;SENIOR;DOUBLETTE;FEMININ;83;Var;Brignoles;A-S-Boulomanes Brignoles
+213;1978;Orléans;45;CARBILLET Chantal;YEN Ginette;;SENIOR;DOUBLETTE;FEMININ;77;Seine & Marne;Villenoy;Pétanque Club
+214;1979;Montélimar;26;GROS Daniéle;LOMBARD Maité;;SENIOR;DOUBLETTE;FEMININ;83;Var;Signes;A-B-Jules Raimu
+215;1980;Niort;79;GRIMALDIER Christine;MARTEL SAT Laurette;;SENIOR;DOUBLETTE;FEMININ;13;Bouches-du-Rhone;Gombert;Boulomanes Gombertois
+216;1981;Cahors;46;GROS Danielle;INNOCENTI Sylvette;;SENIOR;DOUBLETTE;FEMININ;83;Var;Sanary;Boule du Kiosque
+217;1982;Tournon;73;GROS Danielle;INNOCENTI Sylvette;;SENIOR;DOUBLETTE;FEMININ;83;Var;Sanary;Boule du Kiosque
+218;1983;Metz;57;GROS Danielle;INNOCENTI Sylvette;;SENIOR;DOUBLETTE;FEMININ;83;Var;Sanary;Boule du Kiosque
+219;1984;Issy-les-Moulineaux;92;PERE Maryline;DUBARRY Fabienne;;SENIOR;DOUBLETTE;FEMININ;65;Hautes-Pyrénées;Tarbes;Les Eperviers
+220;1985;Nîmes;30;CARBILLET Chantal;RODRIGUEZ Martine;;SENIOR;DOUBLETTE;FEMININ;77;Seine & Marne;Meaux;Pét Meldoise-Collinet
+221;1986;Créteil;94;SARDA Martine;COBOS Sylvie;;SENIOR;DOUBLETTE;FEMININ;34;Hérault;Montpellier;A-S-Cheminots
+222;1987;Aurillac;15;KOUADRI Ranya;GELIN Nathalie;;SENIOR;DOUBLETTE;FEMININ;69;Rhône;Villeurbanne;Les Brosses
+223;1988;Gap;5;LIEGOIS Pascale;ZAJAC Annick;;SENIOR;DOUBLETTE;FEMININ;08;Ardennes;Carignan;Boule Yvoisienne
+224;1989;Saintes;17;KOUADRI Ranya;GELIN Nathalie;;SENIOR;DOUBLETTE;FEMININ;69;Rhône;Villeurbanne;Les Brosses
+225;1990;Dijon;21;LADENISE Isabelle;FERRET Karine;;SENIOR;DOUBLETTE;FEMININ;36;Indre;Châteauroux;A-P-Castelroussine
+226;1991;Cannes;6;DUPON Carole;DOLE Aline;;SENIOR;DOUBLETTE;FEMININ;21;Côte d'Or;Dijon;Le Drapeau
+227;1992;Jouy-en-Josas;78;RATHBERGER Jenny;RATHBERGER Geneviéve;;SENIOR;DOUBLETTE;FEMININ;31;Haute-Garonne;Lasbordes;P-C Lasbordes-Balma
+228;1993;Nancy;54;DUPON Carole;DOLE Aline;;SENIOR;DOUBLETTE;FEMININ;21;Côte d'Or;Dijon;Le Drapeau
+229;1994;Le Puy-en-Velay;43;MARCHAND Marie-Claude;VIREBAYRE Marie-Christine;;SENIOR;DOUBLETTE;FEMININ;34;Hérault;Montpellier;Pétanque St-Martin
+230;1995;Caen;24;CLEMENT Nathalie;PETIT Florence;;SENIOR;DOUBLETTE;FEMININ;41;Loir & Cher;Salbris;P-C-Salbris
+231;1996;Avignon;84;KOUADRI Ranya;DOLE Aline;;SENIOR;DOUBLETTE;FEMININ;69;Rhône;Oullins;Frat' Oullins
+232;1997;Carcassonne;11;COLOMBET Angélique;SCHOPP Florence;;SENIOR;DOUBLETTE;FEMININ;63;Puy-de-Dôme;Cournon d'Auvergne;Joyeux Cochonnet
+233;1998;Le Mans;72;KOUADRI Ranya;DOLE Aline;;SENIOR;DOUBLETTE;FEMININ;69;Rhône;Oullins;Frat' Oullins
+234;1999;Montpellier;34;FILBIEN Christine;MASCAGNI Anne-Marie;;SENIOR;DOUBLETTE;FEMININ;06;Alpes Maritimes;Beaulieu/Mer;Pétanque Berlugane
+235;2000;Sarreguemines;57;COLOMBET Angélique;SCHOPP Florence;;SENIOR;DOUBLETTE;FEMININ;63;Puy-de-Dôme;Cournon d'Auvergne;Joyeux Cochonnet
+236;2001;Soustons;40;COLOMBET/PAPON Angélique;SCHOPP Florence;;SENIOR;DOUBLETTE;FEMININ;63;Puy-de-Dôme;Cournon d'Auvergne;Joyeux Cochonnet
+237;2002;Saint-Maur;36;COLOMBET/PAPON Angélique;SCHOPP Florence;;SENIOR;DOUBLETTE;FEMININ;63;Puy-de-Dôme;Cournon d'Auvergne;Joyeux Cochonnet
+238;2003;Périgueux;24;QUENNEHEN Cynthia;LOZANO Evelyne;;SENIOR;DOUBLETTE;FEMININ;76;Seine-Maritime;Le Havre;H-A-C Boule Océane
+239;2004;Gérardmer;88;CONOIR Catherine;HEINRY Christéle;;SENIOR;DOUBLETTE;FEMININ;35;Ille-et-Vilaine;La Chapelle des Fougeretz;Pétanque Chapelloise
+240;2005;Lure;70;SAEZ Magali;HERLEM Sandrine;;SENIOR;DOUBLETTE;FEMININ;34;Hérault;St-Thibéry;E-B St-Thibéry
+241;2006;Guéret;23;COLOMBET/PAPON Angélique;SCHOPP Florence;;SENIOR;DOUBLETTE;FEMININ;63;Auvergne;Ambert;Elite club Ambert
+242;2007;Poitiers;86;COLOMBET/PAPON Angélique;SCHOPP Florence;;SENIOR;DOUBLETTE;FEMININ;63;Auvergne;Ambert;Elite club Ambert
+243;2008;Grenoble;38;COLOMBET/PAPON Angélique;SCHOPP Florence;;SENIOR;DOUBLETTE;FEMININ;63;Auvergne;Cournon d'Auvergne;Joyeux Cochonnet
+244;2009;Lons le Saunier;39;VIREBAYRE Marie-Christine;D'ISIDORO Ludivine;;SENIOR;DOUBLETTE;FEMININ;63;Auvergne;Cournon d'Auvergne;Joyeux Cochonnet
+245;2010;Soustons;40;VIREBAYRE Marie-Christine;D'ISIDORO Ludivine;;SENIOR;DOUBLETTE;FEMININ;63;Auvergne;Cournon d'Auvergne;Joyeux Cochonnet
+246;2011;Brive;19;VIREBAYRE Marie-Christine;D'ISIDORO Ludivine;;SENIOR;DOUBLETTE;FEMININ;63;Auvergne;Cournon d'Auvergne;Joyeux Cochonnet
+247;2012;Beaucaire;30;PEYRE Nelly;LAPOUTGE Anaïs;;SENIOR;DOUBLETTE;FEMININ;31;Haute-Garonne;Saint-Martory;E-S Saint-Martoryenne
+248;2013;Caen;14;BANDIERA Audrey;BANDIERA Céline;;SENIOR;DOUBLETTE;FEMININ;31;Midi-Pyrénées;Saint-Alban;A-B Saint-Alban
+249;2014;Gruissan;11;LABROUSSE Valérie;BAGILET Rosine;;SENIOR;DOUBLETTE;FEMININ;24;Aquitaine;Périgueux;E-P Périgueux
+250;2015;Troyes;10;COLOMBET/PAPON Angélique;BANDIERA Audrey;;SENIOR;DOUBLETTE;FEMININ;63;Auvergne;Cournon d'Auvergne;J-C Cournon-d'Auvergne
+251;2016;Montauban;82;BINDA Sabrina;COUZON Marianne;;SENIOR;DOUBLETTE;FEMININ;89;Yonne;Auxerre;Stade Auxerrois
+170;2014;Saint-Avold;57;MOROTTI Laurence;;;SENIOR;TETE A TETE; FEMININ;80;Somme;Amiens;ASPTT Amiens
+171;2015;Pau;64;LOVET Ludivine;;;SENIOR;TETE A TETE; FEMININ;6;Alpes Maritimes;Nice;Dépt-Union-Club
+172;2016;Lanester;56;HERLEM Sandrine;;;SENIOR;TETE A TETE; FEMININ;34;Hérault;Agde;Elan Pétanqueur
