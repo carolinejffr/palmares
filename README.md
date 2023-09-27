@@ -4,6 +4,6 @@ Il faut avoir un MySQL configuré en localhost, avec un utilisateur root/passwor
 ## Executer sous windows
 lancer le .bat
 ## Executer dans un terminal (Linux, etc.)
-``java "-Dfile.encoding=UTF-8" -jar petanque.jar``
+``java "-Dfile.encoding=UTF-8" -jar petanque.jar``  
 Caroline Jaffré - BTS SIO SLAM
 
