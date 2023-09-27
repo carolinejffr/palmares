@@ -1,1 +1,1 @@
-java -jar petanque.jar
+java "-Dfile.encoding=UTF-8" -jar petanque.jar
